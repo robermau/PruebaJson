@@ -1,0 +1,41 @@
+[
+   
+    {
+      "id": 1,
+      "nombre": "Carlos",
+      "telefono": 102013313,
+      "email": "html@correo.com",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+    },
+    {
+      "id": 2,
+      "nombre": "CSS",
+      "telefono": 138198313,
+      "email": "css@correo.com",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+    },
+    {
+      "id": 3,
+      "nombre": "JavaScript",
+      "telefono": 31983913,
+      "email": "javascript@correo.com",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
+    },
+    {
+      "id": 4,
+      "nombre": "React Js",
+      "telefono": 319381983,
+      "email": "reactjs@correo.com",
+      "img": "https://es.wikipedia.org/wiki/React#/media/Archivo:React.svg"
+    },
+    {
+      "id": 5,
+      "nombre": "Node Js",
+      "telefono": 1398198938,
+      "email": "nodejs@correo.com",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+    }
+  
+  
+
+  ]
